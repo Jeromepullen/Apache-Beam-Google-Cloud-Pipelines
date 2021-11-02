@@ -84,3 +84,4 @@ public class ReadFromBucketAndAddToBigQuery {
 	    p.run();
 	  }
 	}
+ 
